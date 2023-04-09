@@ -1,5 +1,5 @@
 # Learning JavaScript
-
+<img src="https://repository-images.githubusercontent.com/622521652/ed5c427b-e90f-4ccc-8578-f5eb62585a6e"></img>
 Learn JavaScript, step by step, covering all topics in detail. By the end of this course, you will have a solid understanding of the fundamentals of JavaScript and how to use it to create dynamic and interactive web pages.
 
 In this exciting course, we will embark on a journey to master the art of JavaScript with the help of renowned online resources such as <a href="https://javascript.info/">Javascriptinfo</a>, <a href="https://www.w3schools.com/">W3Schools</a>, <a href="https://www.geeksforgeeks.org/">GeekforGeeks</a>, <a href="https://chat.openai.com/chat/">ChatGPT</a> and more!<br/>
